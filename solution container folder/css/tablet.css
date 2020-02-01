@@ -1,0 +1,59 @@
+h1
+{
+	text-align: center;
+}
+@media (min-width: 768px) and (max-width: 991px)
+{
+	section
+	{
+		background: gray;
+		width: 300%;
+		margin: 24px;
+		height: 210px;
+		width: 402px;
+		border:3px solid black;
+		float:left;
+		padding:8px;
+
+	}
+	#Sar
+	{
+	   	position: relative;
+	   	bottom: 26px;
+		left: 318px;
+		width: 80px;
+		background-color: pink;
+		border:3px solid black;
+		padding: 5px;
+		text-align: center;
+
+	}
+	#Vaj
+	{
+	   	position: relative;
+	   	bottom: 26px;
+		left: 318px;
+		width: 80px;
+		background-color: red;
+		border:3px solid black;
+		padding: 5px;
+		text-align: center;
+		color: white;
+	}
+	#Jeet
+	{
+	   	position: relative;
+	   	bottom: 26px;
+		left: 792px;
+		width: 80px;
+		background-color:#cc9900;
+		border:3px solid black;
+		padding: 5px;
+		text-align: center;
+	}
+	.shift
+	{
+		width: 877px;
+		height: 180px;
+	}
+}
