@@ -9,19 +9,19 @@ section
 {
 	background: gray;
 	width: 300%;
-	margin: 24px;
-	height: 210px;
-	width: 425px;
+	margin: 8px;
+	height: 180px;
+	width: 540px;
 	border:3px solid black;
 	float:left;
-	padding:8px;
+	padding: 8px;
 
 }
 #Sar
 {
    	position: relative;
    	bottom: 26px;
-	left: 340px;
+	left: 454px;
 	width: 80px;
 	background-color: pink;
 	border:3px solid black;
@@ -33,7 +33,7 @@ section
 {
    	position: relative;
    	bottom: 26px;
-	left: 340px;
+	left: 454px;
 	width: 80px;
 	background-color: red;
 	border:3px solid black;
@@ -48,7 +48,7 @@ section
 {
    	position: relative;
    	bottom: 26px;
-	left: 340px;
+	left: 454px;
 	width: 80px;
 	background-color:#cc9900;
 	border:3px solid black;
